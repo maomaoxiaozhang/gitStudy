@@ -1,5 +1,15 @@
+<<<<<<< HEAD
 dasd
 a,dfl;a
 adasd
 fdgfd
 g
+=======
+asdasd
+ert
+rtet
+ty
+trh
+yt
+n
+>>>>>>> iss53
