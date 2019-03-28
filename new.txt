@@ -3,4 +3,9 @@
 asdasd
 
 g
+<<<<<<< e08b29e51cfe604f81912c5b89869e29bce54785
 >>>>>>> testing
+=======
+njkndj按时间宽带连接拉斯肯德基kj
+Asdasd
+>>>>>>> again
