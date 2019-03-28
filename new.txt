@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <<<<<<< 397ee951866ecab243d7d2746714a1640ddf5a4f
 =======
 asdasd
@@ -9,3 +10,6 @@ g
 njkndj按时间宽带连接拉斯肯德基kj
 Asdasd
 >>>>>>> again
+=======
+mychange
+>>>>>>> 752405b38f45d994982659b870cd3c3ceab11a7f
